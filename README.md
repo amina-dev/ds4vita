@@ -1,4 +1,4 @@
-# Forked of xerpi's ds4vita hooks branch
+# Fork of xerpi's ds4vita hooks branch
 
 xerpi released an experimental ds4vita version https://github.com/xerpi/ds4vita/tree/hooks which hopefully fix the stuttering of Left analog on some games. 
 
