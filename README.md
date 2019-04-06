@@ -1,6 +1,13 @@
-# ds4vita
+# Forked of xerpi's ds4vita hooks branch
 
-**Download**: https://github.com/xerpi/ds4vita/releases
+xerpi released an experimental ds4vita version https://github.com/xerpi/ds4vita/tree/hooks which hopefully fix the stuttering of Left analog on some games. 
+
+This fork reverts the swapping of triggers (L1, R1, L2, R2) on line 284-294 in main.c.
+
+**Credits:**
+xerpi for their awesome plugin
+
+**Download**: 
 
 **Enable the plugin:**
 
